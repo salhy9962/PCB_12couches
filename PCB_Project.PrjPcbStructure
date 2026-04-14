@@ -1,0 +1,26 @@
+Record=TopLevelDocument|FileName=40 Pin BS, FAN Connector and Test LEDs.SchDoc|SheetNumber=24
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=CODEC and Headphone Jack.SchDoc|SheetNumber=23
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=EDP and MIPI DSI Connectors.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=EMMC with rk399.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=HDMI Connector for RK3399.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=HDMI_MIPI-DSI_EDP.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=I2C_GPIOs_MIPI-CSI.SchDoc|SheetNumber=26
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=LPDDR4 SDRAM_1.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=LPDDR4 SDRAM_2.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=MIPI CSI 0 and 1 Connectors.SchDoc|SheetNumber=21
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=PCIE Connector.SchDoc|SheetNumber=25
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=PMIC_Block_.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=Power Supply for CPU Blocks.SchDoc|SheetNumber=20
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=Power Supply Page for RK3399.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=Regulators and Buck Converters.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=RGMII ETH PHY.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=RGMII_SDIO_I2S.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=RJ45 Connector and ESD Diodes.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=RK3399 Side of LPDDR4 Controller.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=SD Card and Debug Uart.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=SDMMC EMMC PCIE ADC Blocks.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=System PMU for RK3399.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=TYPEC0.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=TYPEC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=USB2.0.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=40 Pin BS, FAN Connector and Test LEDs.SchDoc|FileName=WIFI_MODULE.SchDoc|SheetNumber=15
